@@ -29,8 +29,8 @@ Chuck：拉锁
 Fastener：拉链
 
 //专有名词
-Panty & Stocking：吊带袜天使
 Panty & Stocking with Garterbelt：吊带袜天使
+(Panty & Stocking)：吊带袜天使
 Daten City：堕天城
 G-String：丁字裤
 See-Through：透明袜
