@@ -14,7 +14,7 @@ Anarchy Stocking = 安其那·丝桃金
 Anarchy Panty = 安其那·潘蒂
 Stockiel：丝桃金尔
 Pantiel：潘蒂尔
-Scanty：司坎堤
+Scanty：司坎缇
 Kneesocks：妮索珂斯
 Ramie：拉米
 Linière：利涅尔
@@ -35,6 +35,9 @@ Daten City：堕天城
 G-String：丁字裤
 See-Through：透明袜
 Double Low-Riser：双轮毁灭者
+
+Poly：波利
+Polybros：波利兄弟
 
 通用词条
 little brother：弟弟
