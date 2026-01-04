@@ -1,4 +1,4 @@
-版本号：1.0.2
+版本号：1.0.3
 维护者：Romano-0317
 更新时间：2026-1-5
 
@@ -31,7 +31,7 @@ Fastener：拉链
 
 //专有名词
 Panty & Stocking with Garterbelt：吊带袜天使
-(Panty & Stocking)：吊带袜天使
+(Panty & Stocking)：(吊带袜天使)
 Daten City：堕天城
 G-String：丁字裤
 See-Through：透明袜
@@ -42,7 +42,9 @@ Polybros：波利兄弟
 
 通用词条
 little brother：弟弟
+younger brother：弟弟
 big brother：哥哥
+older brother：哥哥
 brother：兄弟
 cousin：堂亲
 Heaven coin：天堂币
