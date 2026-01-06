@@ -1,6 +1,6 @@
-版本号：1.0.3
+版本号：1.0.4
 维护者：Romano-0317
-更新时间：2026-1-5
+更新时间：2026-1-7
 
 词条
 //角色名
@@ -24,6 +24,7 @@ Garter：盖塔
 Garterbelt：盖塔贝特
 Brief：布利夫
 Briefers Rock = 布利夫·洛克
+Arthur·Rock = 亚瑟·洛克
 Gunsmith Bitch：枪械匠婊
 Corset：克罗赛特
 Chuck：拉锁
@@ -34,18 +35,23 @@ Panty & Stocking with Garterbelt：吊带袜天使
 (Panty & Stocking)：(吊带袜天使)
 Daten City：堕天城
 G-String：丁字裤
-See-Through：透明袜
+See-Through：透明衣
 Double Low-Riser：双轮毁灭者
+Ghost Vision Pro Max：鬼视Pro Max
+
+通用词条
+//专有名词
+Heaven coin：天堂币
+Hell coin：地狱币
+Lingerie Land：内衣乐园
 
 Poly：波利
 Polybros：波利兄弟
+Bulge Bros：大包兄弟
 
-通用词条
 little brother：弟弟
 younger brother：弟弟
 big brother：哥哥
 older brother：哥哥
 brother：兄弟
 cousin：堂亲
-Heaven coin：天堂币
-Hell coin：地狱币
